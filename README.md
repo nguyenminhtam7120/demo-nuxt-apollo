@@ -10,22 +10,22 @@ This project is a demonstration of how to use [Nuxt 3](https://nuxt.com/) with [
 1. Clone the repository to get started
 
 ```bash
-git clone https://github.com/your-username/nuxt-3-apollo.git
+git clone https://github.com/nguyenminhtam7120/demo-nuxt-apollo.git
 ```
 
 2. Install the dependencies
 
 ```bash
 npm install 
-yarn install
-pnpm install
+// or yarn install
+// or pnpm install
 ```
 
 3. Start the development server
 
 ```bash
 npm run dev
-yarn dev
+// or yarn dev
 ```
 
 
