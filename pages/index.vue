@@ -1,0 +1,3 @@
+<template>
+    <CharacterComponent />
+</template>

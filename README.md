@@ -1,42 +1,55 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Nuxt 3 + Nuxt Apollo :rocket:
 
-## Setup
+This project is a demonstration of how to use [Nuxt 3](https://nuxt.com/) with [Nuxt Apollo](https://apollo.nuxtjs.org/) to fetch data from the [Ricky and Morty](https://rickandmortyapi.com/) GraphQL API and display it on the website. It also includes a light and dark mode feature created using the [@nuxtjs/color-mode](https://color-mode.nuxtjs.org/) module and styling is done using the [nuxt/tailwindcss](https://tailwindcss.nuxt.dev) module.
 
-Make sure to install the dependencies:
+
+
+## Installation
+
+1. Clone the repository to get started
 
 ```bash
-# yarn
+git clone https://github.com/your-username/nuxt-3-apollo.git
+```
+
+2. Install the dependencies
+
+```bash
+npm install 
 yarn install
-
-# npm
-npm install
-
-# pnpm
 pnpm install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`
+3. Start the development server
 
 ```bash
 npm run dev
+yarn dev
 ```
 
-## Production
 
-Build the application for production:
+    
+## Features :sparkles:
 
-```bash
-npm run build
-```
+- :sparkles: Customizable light and dark modes for a personalized viewing experience.
+- :fire: Effortless data retrieval from the cutting-edge Ricky and Morty GraphQL API through the use of Apollo.
+- :art: Eye-catching and Contemporary design, achieved through the implementation of TailwindCSS.
+- :iphone: Seamless User Experience on all devices, thanks to the responsive design approach.
 
-Locally preview production build:
 
-```bash
-npm run preview
-```
+## Note
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+This is just a demonstration project and should not be used in production without proper testing and optimization.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+Feel free to use the code and make it better.
