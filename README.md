@@ -1,7 +1,6 @@
 
 # Nuxt 3 + Nuxt Apollo :rocket:
-
-This project is a demonstration of how to use [Nuxt 3](https://nuxt.com/) with [Nuxt Apollo](https://apollo.nuxtjs.org/) to fetch data from the [Ricky and Morty](https://rickandmortyapi.com/) GraphQL API and display it on the website. It also includes a light and dark mode feature created using the [@nuxtjs/color-mode](https://color-mode.nuxtjs.org/) module and styling is done using the [nuxt/tailwindcss](https://tailwindcss.nuxt.dev) module.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=nuxtjs,vite,graphql,tailwind" />
@@ -12,7 +11,7 @@ This project is a demonstration of how to use [Nuxt 3](https://nuxt.com/) with [
 1. Clone the repository to get started
 
 ```bash
-git clone https://github.com/nguyenminhtam7120/nuxt-3-apollo.git
+git clone https://github.com/nguyenminhtam7120/demo-nuxt-apollo.git
 ```
 
 2. Install the dependencies
@@ -41,17 +40,4 @@ npm run dev
 
 
 ## Note
-
-This is just a demonstration project and should not be used in production without proper testing and optimization.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-Feel free to use the code and make it better.
+I clone this project to learn how to use GraphQL (Apollo) in Nuxt3, thanks for visit!
